@@ -1,0 +1,3 @@
+[submodule "ASD_iPad_App"]
+	path = ASD_iPad_App
+	url = https://github.com/ahueni/ASD_iPad_App
